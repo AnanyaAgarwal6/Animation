@@ -18,3 +18,17 @@ body{
     top: 500px;
     right :1300px;
 }
+.image img{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+}
+.image1 img{
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    top: 520px;
+    left: 930px;
+}
