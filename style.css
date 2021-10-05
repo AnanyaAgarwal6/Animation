@@ -4,9 +4,17 @@ body{
 }
 .background{
     background-image: url('backimage.jpg');
-    overflow-y: hidden;
-    height: 754px;
+    overflow: hidden;
+    height: 100vh;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
+    position: relative;
+}
+#anim {
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 500px;
+    right :1300px;
 }
