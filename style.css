@@ -32,3 +32,10 @@ body{
     top: 520px;
     left: 930px;
 }
+#image2{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+}
